@@ -1,0 +1,10 @@
+RANDOM - A random integer between 0 and 32767 is generated
+UID    - user ID of the user logged in
+
+
+>echo $RANDOM (it display new random number each time(32721,12739,29290)
+>echo $RANDOM (it display new random number each time)
+
+to check current uid 
+> echo $UID
+

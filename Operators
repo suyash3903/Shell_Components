@@ -1,0 +1,10 @@
+#to compare value or to check conditions operators are used
+
+
+Equal                   -eq/==
+Greaterthanorequalto    -ge
+Lessthanorequalto       -le
+Not Equal               -ne/!=
+Greater Than            -gt
+Less Than               -lt
+
